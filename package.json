@@ -1,0 +1,27 @@
+{
+  "name": "seal-hotkeys",
+  "description": "",
+  "author": "tudousi",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-umd": "^0.2.0",
+    "jasmine": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tudousi/seal-hotkeys"
+  },
+  "homepage": "https://github.com/tudousi/seal-hotkeys",
+  "bugs": {
+    "url": "https://github.com/tudousi/seal-hotkeys/issues"
+  },
+  "scripts": {
+    "test": "node tests"
+  },
+  "keywords": [
+    "seal-hotkeys"
+  ],
+  "license": "MIT"
+}
