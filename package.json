@@ -1,6 +1,6 @@
 {
   "name": "seal-hotkeys",
-  "description": "",
+  "description": "热键模块",
   "author": "tudousi",
   "version": "0.0.1",
   "dependencies": {},
